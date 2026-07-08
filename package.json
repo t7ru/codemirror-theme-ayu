@@ -1,7 +1,8 @@
 {
 	"name": "codemirror-theme-ayu",
 	"description": "Ayu light and dark themes for CodeMirror 6.",
-	"version": "1.0.0",
+	"author": "t7ru",
+	"version": "1.0.7",
 	"type": "module",
 	"license": "MIT",
 	"exports": "./src/index.js",
@@ -14,5 +15,14 @@
 		"@codemirror/state": "^6.0.0",
 		"@codemirror/view": "^6.0.0",
 		"@lezer/highlight": "^1.2.3"
+	},
+	"keywords": [
+		"ayu",
+		"codemirror",
+		"theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/t7ru/codemirror-theme-ayu.git"
 	}
 }
