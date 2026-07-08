@@ -1,0 +1,30 @@
+export const editor = {
+	background: "#10141c",
+	foreground: "#bfbdb6",
+	caret: "#e6b450",
+	lineHighlight: "#161a24",
+	gutterForeground: "#6c738099",
+	gutterHighlight: "#6c7380e6",
+	selection: "#80b5ff26",
+	selectionActive: "#3388ff40",
+	searchMatch: "#e6b450",
+	selectionMatch: "#e6b45066",
+};
+
+export const syntax = {
+	comment: "#acb6bf8c",
+	string: "#aad94c",
+	regexp: "#95e6cb",
+	accent: "#e6b450",
+	constant: "#d2a6ff",
+	markup: "#f07178",
+	keyword: "#ff8f40",
+	operator: "#f29668",
+	separator: "#bfbdb6b3",
+	func: "#ffb454",
+	entity: "#59c2ff",
+	tag: "#39bae6",
+	tagBracket: "#39bae680",
+	special: "#e6b673",
+	invalid: "#d95757",
+};

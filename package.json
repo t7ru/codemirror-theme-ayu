@@ -1,0 +1,18 @@
+{
+	"name": "codemirror-theme-ayu",
+	"description": "Ayu light and dark themes for CodeMirror 6.",
+	"version": "1.0.0",
+	"type": "module",
+	"license": "MIT",
+	"exports": "./src/index.js",
+	"types": "./src/index.d.ts",
+	"files": [
+		"src"
+	],
+	"peerDependencies": {
+		"@codemirror/language": "^6.0.0",
+		"@codemirror/state": "^6.0.0",
+		"@codemirror/view": "^6.0.0",
+		"@lezer/highlight": "^1.2.3"
+	}
+}
